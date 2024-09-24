@@ -10,6 +10,7 @@ I'm currently pursuing a **Diploma in Information Technology**, and I have a pas
 Here are a few projects I've worked on as part of my coursework:
 - **[CGPA Calculator](https://github.com/tbhidkmanlol/cgpa-calculator)**: A CGPA calculator developed in C to help students calculate their cumulative grade point average.
 - **[Train Ticketing System](https://github.com/tbhidkmanlol/train-ticketing-system)**: A Train Ticketing System developed in C for managing train bookings.
+- **[Grocery Inventory Management System](https://github.com/tbhidkmanlol/grocery-inventory-management-system/)**: A Grocery Inventory Management System developed in Java for managing and tracking grocery inventory.
 
 ### 📫 Let's Connect
 
