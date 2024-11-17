@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Thu Xing Liang!
+# 👋 Hello, I'm Thu!
 
 I'm currently pursuing a **Diploma in Information Technology**, and I have a passion for coding, problem-solving, and continuous learning. My goal is to gain more experience in software development and improve my skills in the following technologies:
 
