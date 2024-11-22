@@ -15,7 +15,7 @@ Here are a few projects I've worked on as part of my coursework:
 ### 📫 Let's Connect
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/thu-xing-liang-976b09320/)
-- Email: thuxingliang@gmail.com
+- Email: thuxl2003@gmail.com
 
 Feel free to check out my projects and get in touch if you'd like to collaborate!
 
