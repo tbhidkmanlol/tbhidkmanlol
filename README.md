@@ -3,7 +3,6 @@
 I'm currently pursuing a **Diploma in Information Technology**, and I have a passion for coding, problem-solving, and continuous learning. My goal is to gain more experience in software development and improve my skills in the following technologies:
 
 - **Languages**: C, PHP, HTML, CSS, JavaScript, Java, Oracle SQL, phpMyAdmin
-- **Interests**: Software Engineering, Web Development
 
 ### 📚 School Projects
 
