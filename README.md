@@ -17,9 +17,6 @@ Here are a few projects I've worked on as part of my coursework:
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/thu-xing-liang-976b09320/)
 - Email: thuxl2003@gmail.com
 
-Feel free to check out my projects and get in touch if you'd like to collaborate!
-
-
 <!---
 tbhidkmanlol/tbhidkmanlol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
