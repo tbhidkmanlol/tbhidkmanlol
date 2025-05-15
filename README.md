@@ -11,6 +11,7 @@ Here are a few projects I've worked on as part of my coursework:
 - **[Train Ticketing System](https://github.com/tbhidkmanlol/train-ticketing-system)**: A Train Ticketing System developed in C for managing train bookings.
 - **[Grocery Inventory Management System](https://github.com/tbhidkmanlol/grocery-inventory-management-system/)**: A Grocery Inventory Management System developed in Java for managing and tracking grocery inventory.
 - **[Flight Schedule Database](https://github.com/tbhidkmanlol/Flight-Schedule)**: A Flight Schedule Database developed in Oracle SQL for managing and scheduling flights.
+- **[PocketGadget E-Commerce Platform](https://github.com/tbhidkmanlol/amit3094-assignment)**: An integrated e-commerce and inventory management system for tech gadgets and accessories built using Java technologies.
 ### 📫 Let's Connect
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/thu-xing-liang-976b09320/)
