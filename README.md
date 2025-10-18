@@ -1,7 +1,10 @@
 ## about me
 I'm currently pursuing a **Diploma in Information Technology**, and I have a passion for coding, problem-solving, and continuous learning. My goal is to gain more experience in software development and improve my skills in the following technologies:
 
-- **Languages**: C, PHP, HTML, CSS, JavaScript, Java, Oracle SQL, phpMyAdmin
+- **Languages:** Java, C, PHP, JavaScript, SQL
+- **Web Technologies:** HTML, CSS, JSP
+- **Databases:** Oracle SQL, MySQL
+- **Tools & Platforms:** Git, GitHub, phpMyAdmin, MS Office, Google Workspace
 
 ### projects
 Here are a few projects I've worked on as part of my coursework:
